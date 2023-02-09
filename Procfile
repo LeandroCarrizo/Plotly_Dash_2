@@ -1,0 +1,1 @@
+web: gunicorn dash_pedidos_v2:server

@@ -1,0 +1,140 @@
+.outer {
+    margin: auto;
+    flex-wrap: wrap;
+    background-color: #242424;
+    
+}
+
+.inner{
+    flex-wrap: wrap;;
+    justify-content: center;
+    gap: 1rem;
+    margin: auto;
+    display: flex;
+    position: relative
+}
+
+
+
+.filtros{
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    width: 20rem;
+    border-width: 2px;
+    margin: 0 auto;
+
+}
+
+
+
+.promedios{
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    width: 20rem;
+    border-width: 2px;
+    right: 5rem;
+    position: absolute;
+
+
+}
+
+.drop{
+    width: 9rem;
+    display: block;
+    
+
+}
+
+.mini{
+    display:flex;
+    
+}
+
+.fecha{
+    padding-left: 0.20rem;
+    
+    width: 20rem;
+}
+
+
+.derecha{
+    width: 5rem;
+    text-align: right;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    display: block;
+
+}
+
+.tarjeta{
+    border-width: 2px;
+    border-radius: 0.75rem;
+    flex: none;
+    text-align: center;
+    margin: auto;
+    width: 10rem;
+
+}
+
+.day-mean{
+    display: block;
+    text-align: center;
+}
+
+.tabla{
+    display: inline-block;
+    max-width: 20rem;
+    padding: 1em;
+    margin-left: 10%;
+    
+}
+
+.grafico{
+    margin:auto;
+    display : inline-block;
+    max-width: 60rem;
+    padding: 1em;
+}
+.inferior{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.etiqueta{
+    width: 5rem;
+    text-align: center;
+    padding-left: 0.25rem;
+    padding-right: 0.25rem;
+    display: block;
+
+
+
+}
+
+.Select-control {
+    background-color: #242424 !important;
+    color:#b154c1;
+  }
+  
+.Select-menu-outer {
+    background-color: #242424;
+    color: #b154c1;
+}
+
+.Select-value-label {
+    color: #b154c1 !important;
+}
+
+.DateRangePickerInput, .DateRangePickerInput_1, .DateRangePickerInput_withBorder, .DateRangePickerInput_withBorder_2{
+    background-color: #242424 !important;
+    
+}
+
+.DateInput_input, .DateInput_input_1{
+    background-color: #242424 !important;
+    
+}
